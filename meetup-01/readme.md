@@ -1,4 +1,4 @@
-# Meetup #1 at [Zweitag](http://www.zweitag.de), 14.04.2016
+# Meetup #1, 14.04.2016 @ [Zweitag](http://www.zweitag.de)
 
 ## Intro
 
