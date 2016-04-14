@@ -1,7 +1,7 @@
 # Meetup #1, 14.04.2016 @ [Zweitag](http://www.zweitag.de)
 
 ## Intro
-
+- [Python script to pull and visualize results of survey via Typeform](intro_survey_results.ipynb)
 
 ## Talk #1
 **What are data scientists and which tools do they use?**
