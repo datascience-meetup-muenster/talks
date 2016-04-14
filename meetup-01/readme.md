@@ -4,7 +4,7 @@
 - [Python script to pull and visualize results of survey via Typeform](intro_survey_results.ipynb)
 
 ## Talk #1
-**What are data scientists and which tools do they use?**
+[**What are data scientists and which tools do they use?**](what_are_data_scientists_and_tools.ipynb)
 
 Dr. Tobias Pfaff
 
