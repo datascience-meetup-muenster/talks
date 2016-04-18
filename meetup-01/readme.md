@@ -9,6 +9,6 @@
 Dr. Tobias Pfaff
 
 ## Talk #2
-**Practical use case of data science**
+**Practical use case of data science** (slides can't be shared due to McKinsey's company policy)
 
 Omer Maqsood
