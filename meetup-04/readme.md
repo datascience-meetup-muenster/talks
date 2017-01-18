@@ -8,6 +8,6 @@
 
 ## Talk #2
 
-**Image classification with Python, or how I won a hackathon** ([PDF](timo_klerx-how_to_evaluate_a_machine_learning_model.pdf))
+**A survey of resampling methods** ([PDF](A_survey_of_resampling_methods.pdf))
 
 [Christian Thiele](http://thie1e.github.io/)
