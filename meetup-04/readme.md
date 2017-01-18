@@ -2,12 +2,12 @@
 
 ## Talk #1
 
-**How to evaluate a machine learning model** ([PDF](timo_klerx-how_to_evaluate_a_machine_learning_model.pdf))
+**How to evaluate a machine learning model** ([slides](timo_klerx-how_to_evaluate_a_machine_learning_model.pdf))
 
 [Timo Klerx](https://www.linkedin.com/in/timoklerx/de)
 
 ## Talk #2
 
-**A survey of resampling methods** ([PDF](A_survey_of_resampling_methods.pdf))
+**A survey of resampling methods** ([slides](A_survey_of_resampling_methods.pdf))
 
 [Christian Thiele](http://thie1e.github.io/)
