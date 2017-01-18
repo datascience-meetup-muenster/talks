@@ -1,4 +1,4 @@
-# Meetup #1, 14.04.2016 @ [Zweitag](http://www.zweitag.de)
+# [Meetup #1](https://www.meetup.com/Data-Science-Meetup-Muenster/events/228596990/), 14.04.2016 @ [Zweitag](http://www.zweitag.de)
 
 ## Intro
 - [Python script to pull and visualize results of survey via Typeform](intro_survey_results.ipynb)
