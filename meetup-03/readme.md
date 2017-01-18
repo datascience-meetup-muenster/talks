@@ -1,4 +1,4 @@
-[# Meetup #3](http://www.meetup.com/Data-Science-Meetup-Muenster/events/233439307/), 22.09.2016 @ [4tree](http://www.4tree.com)
+# [Meetup #3](http://www.meetup.com/Data-Science-Meetup-Muenster/events/233439307/), 22.09.2016 @ [4tree](http://www.4tree.com)
 
 ## Talk #1
 
