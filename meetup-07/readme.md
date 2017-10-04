@@ -8,4 +8,4 @@
 ## Talk #2
 
 
-**Machine Learning with Scala & Spark** ([slides](datasciencemeetup_slides.pdf))
+**Machine Learning with Scala & Spark** ([slides](Spark.pdf))
