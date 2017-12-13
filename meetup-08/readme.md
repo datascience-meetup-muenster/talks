@@ -8,6 +8,6 @@
 
 ## Talk #2
 
-**End-2-End Datascience - From interactive programming to production ready code** How to evaluate a machine learning model** ([slides](http://plainpixels.work/resources/e2e-datascience-slides.slides#/))
+**End-2-End Datascience - From interactive programming to production ready code** ([slides](http://plainpixels.work/resources/e2e-datascience-slides.slides#/))
 
 [Mark Keinhörster](https://github.com/crazzle/)
