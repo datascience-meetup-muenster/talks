@@ -1,4 +1,4 @@
-#[Meetup #10](https://www.meetup.com/Data-Science-Meetup-Muenster/events/250376795/), 07.06.2018
+# [Meetup #10](https://www.meetup.com/Data-Science-Meetup-Muenster/events/250376795/), 07.06.2018
 
 ## Talk #1
 
