@@ -8,7 +8,7 @@ Omar Gutiérrez
 
 ## Talk #2
 
-**Beyond notebooks: how to go to production with h2o** ([slides](xyz))
+**Beyond notebooks: how to go to production with h2o** ([slides](https://github.com/datascience-meetup-muenster/talks/blob/master/meetup-10/DSMeetup_h2o.pdf))
 
 Dr. Thorben Jensen
 
@@ -26,6 +26,6 @@ Dr. Pietro Giudice
 
 ## Talk #5
 
-**Hyperparameter Tuning, brute force or smart algorithms?** ([slides](xyz))
+**Hyperparameter Tuning, brute force or smart algorithms?** ([slides](https://github.com/datascience-meetup-muenster/talks/blob/master/meetup-10/DSMeetup_hyperparameter_tuning.pdf))
 
 Tobias Rippel
