@@ -2,7 +2,7 @@
 
 ## Talk #1
 
-**Reinforcement Learning in Logistics – A Warehouse Management Case Study** ([slides](https://github.com/MarcusCramer91/WindyGridworld/blob/master/WDL_RL_Talk_DSMeetup.pptx))
+**Reinforcement Learning in Logistics – A Warehouse Management Case Study** ([slides](https://github.com/MarcusCramer91/WindyGridworld/blob/master/WDL_RL_Talk_DSMeetup.pptx), [code](https://github.com/MarcusCramer91/WindyGridworld))
 
 Marcus Cramer & David Middelbeck
 
