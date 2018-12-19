@@ -8,6 +8,6 @@ Marcus Cramer & David Middelbeck
 
 ## Talk #2
 
-**Capsule Networks** ([slides](https://github.com/datascience-meetup-muenster/talks/blob/master/meetup-10/DSMeetup_h2o.pdf))
+**Capsule Networks** ([slides](https://github.com/datascience-meetup-muenster/talks/blob/master/meetup-11/meetup_kai_lichtenberg_capsule_networks.pdf))
 
 Kai Lichtenberg
