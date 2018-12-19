@@ -10,4 +10,4 @@ Marcus Cramer & David Middelbeck
 
 **Capsule Networks** ([slides](https://github.com/datascience-meetup-muenster/talks/blob/master/meetup-10/DSMeetup_h2o.pdf))
 
-Dr. Kai Lichtenberg
+Kai Lichtenberg
