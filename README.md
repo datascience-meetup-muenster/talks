@@ -10,3 +10,6 @@ Topic and material (if available) of the talks
 - [Meetup #8](meetup-08)
 - [Meetup #10](meetup-10)
 - [Meetup #11](meetup-11)
+- [Meetup #12](meetup-12)
+- [Meetup #13](meetup-13)
+- [Meetup #14](meetup-14)
