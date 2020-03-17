@@ -8,6 +8,6 @@ Mirko Bunse
 
 ## Talk #2
 
-**Julia Hack Session** ([slides](https://github.com/mirkobunse/julia-knn-tutorial))
+**Julia Hack Session** ([repo](https://github.com/mirkobunse/julia-knn-tutorial))
 
 Mirko Bunse
